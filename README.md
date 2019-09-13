@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Appservice
-- platforms: java
+description: "Azure App Service basic sample for managing web apps."
+urlFragment: app-service-java-configure-deployment-sources-for-web-apps-async
 ---
 
 # Getting Started with Appservice - Manage Web App Source Control Async - in Java #
